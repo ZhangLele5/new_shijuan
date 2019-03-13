@@ -1,0 +1,31 @@
+{
+  "RESULT": "S",
+  "ERRMSG": "查询成功",
+  "ROWS_DETAIL": [
+    {
+      "Number": "M101",
+      "Origin": "信息学院",
+      "Terminal": "科技园总站"
+    },
+    {
+      "Number": "M102",
+      "Origin": "双龙地铁站",
+      "Terminal": "车公庙"
+    },
+    {
+      "Number": "M103",
+      "Origin": "大运地铁站",
+      "Terminal": "坪地"
+    },
+    {
+      "Number": "M104",
+      "Origin": "信息学院",
+      "Terminal": "市民中心"
+    },
+    {
+      "Number": "M105",
+      "Origin": "信息学院",
+      "Terminal": "东门步行街"
+    }
+  ]
+}

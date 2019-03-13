@@ -1,0 +1,145 @@
+{
+  "RESULT": "S",
+  "ERRMSG": "查询成功",
+  "ROWS_DETAIL": [
+    {
+      "Highway": "沈海高速",
+      "Number": "G15",
+      "isNormal": false,
+      "Tolls": [
+        {
+          "Name": "胶州收费站",
+          "isNormal": true
+        },
+        {
+          "Name": "九龙收费站",
+          "isNormal": true
+        },
+        {
+          "Name": "王台收费站",
+          "isNormal": false
+        },
+        {
+          "Name": "铁山收费站",
+          "isNormal": true
+        },
+        {
+          "Name": "大场收费站",
+          "isNormal": true
+        },
+        {
+          "Name": "仁兆收费站",
+          "isNormal": false
+        },
+        {
+          "Name": "南村收费站",
+          "isNormal": true
+        }
+      ]
+    },
+    {
+      "Highway": "荣乌高速",
+      "Number": "G18",
+      "isNormal": true,
+      "Tolls": [
+        {
+          "Name": "新河收费站",
+          "isNormal": true
+        },
+        {
+          "Name": "灰埠收费站",
+          "isNormal": true
+        }
+      ]
+    },
+    {
+      "Highway": "青银高速",
+      "Number": "G20",
+      "isNormal": true,
+      "Tolls": [
+        {
+          "Name": "青岛东收费站",
+          "isNormal": true
+        },
+        {
+          "Name": "李村收费站",
+          "isNormal": true
+        },
+        {
+          "Name": "夏庄收费站",
+          "isNormal": true
+        }
+      ]
+    },
+    {
+      "Highway": "青新高速",
+      "Number": "G2011",
+      "isNormal": false,
+      "Tolls": [
+        {
+          "Name": "城阳南收费站",
+          "isNormal": true
+        },
+        {
+          "Name": "城阳北收费站",
+          "isNormal": true
+        },
+        {
+          "Name": "即墨西收费站",
+          "isNormal": false
+        },
+        {
+          "Name": "普东收费站",
+          "isNormal": false
+        },
+        {
+          "Name": "郭庄收费站",
+          "isNormal": false
+        },
+        {
+          "Name": "平度南收费站",
+          "isNormal": true
+        },
+        {
+          "Name": "张舍收费站",
+          "isNormal": true
+        }
+      ]
+    },
+    {
+      "Highway": "青兰高速",
+      "Number": "G22",
+      "isNormal": false,
+      "Tolls": [
+        {
+          "Name": "黄山收费站",
+          "isNormal": true
+        },
+        {
+          "Name": "青岛西收费站",
+          "isNormal": true
+        },
+        {
+          "Name": "高新区主站",
+          "isNormal": false
+        },
+        {
+          "Name": "河套主站",
+          "isNormal": false
+        },
+        {
+          "Name": "河套分站",
+          "isNormal": false
+        },
+        {
+          "Name": "胶州收费站",
+          "isNormal": true
+        },
+        {
+          "Name": "红石崖收费站",
+          "isNormal": true
+        }
+      ]
+    }
+  ]
+}

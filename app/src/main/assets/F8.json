@@ -1,0 +1,36 @@
+{
+  "RESULT": "S",
+  "ERRMSG": "查询成功",
+  "ROWS_DETAIL": [
+    {
+      "Parking": "信息学院停车场",
+      "Emptyparking":"65",
+      "Fare":"5",
+      "Address":"龙岗区龙翔大道2188号"
+    },
+    {
+      "Parking": "深职院停车场",
+      "Emptyparking":"56",
+      "Fare":"10",
+      "Address":"南山区留仙大道7098号"
+    },
+    {
+      "Parking": "深圳大学停车场",
+      "Emptyparking":"50",
+      "Fare":"15",
+      "Address":"南山区南海大道3688号"
+    },
+    {
+      "Parking": "清华大学停车场",
+      "Emptyparking":"200",
+      "Fare":"7",
+      "Address":"北京市海淀区清华大学"
+    },
+    {
+      "Parking": "北京大学停车场",
+      "Emptyparking":"102",
+      "Fare":"12",
+      "Address":"海淀区颐和园路5号"
+    }
+  ]
+}

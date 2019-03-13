@@ -1,0 +1,46 @@
+{
+  "RESULT": "S",
+  "ERRMSG": "查询成功",
+  "ROWS_DETAIL": [
+    {
+      "Number": "M101",
+      "Route": "信息学院——科技园总站",
+      "Fare": 8.0,
+      "Mileage": 40.0,
+      "GoTime": "06:30",
+      "BackTime": "18:45"
+    },
+    {
+      "Number": "M202",
+      "Route": "双龙地铁站——车公庙",
+      "Fare": 10.0,
+      "Mileage": 43.2,
+      "GoTime": "06:00",
+      "BackTime": "18:45"
+    },
+    {
+      "Number": "M303",
+      "Route": "大运地铁站——坪地",
+      "Fare": 4.0,
+      "Mileage": 21.3,
+      "GoTime": "06:30",
+      "BackTime": "18:45"
+    },
+    {
+      "Number": "M404",
+      "Route": "信息学院——市民中心",
+      "Fare": 6.0,
+      "Mileage": 30.1,
+      "GoTime": "07:00",
+      "BackTime": "18:30"
+    },
+    {
+      "Number": "M505",
+      "Route": "信息学院——东门步行街",
+      "Fare": 5.0,
+      "Mileage": 24.6,
+      "GoTime": "05:30",
+      "BackTime": "19:00"
+    }
+  ]
+}
